@@ -15,7 +15,7 @@ Developed an interactive **Retail Sales Dashboard** in MS Excel to analyze busin
 ---
 
 ### 📂 Dataset  
-- 📁 [Download Dataset](https://github.com/Sunil7489/Retail-Sales-Dashboard-Excel/blob/main/Amazon.xlsx)
+- 📁 - <a href ="https://github.com/Sunil7489/Retail-Sales-Dashboard-Excel/blob/main/Amazon.xlsx">Dataset</a>
 
 ---
 
