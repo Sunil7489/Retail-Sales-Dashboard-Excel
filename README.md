@@ -1,45 +1,92 @@
-## 📊 Retail Sales Data Analysis (Interactive Dashboard using MS Excel)
+## 📊 Retail Sales Data Analysis Dashboard (MS Excel)
 
 ### 🚀 Project Overview  
-Designed and developed an interactive retail sales dashboard in MS Excel to provide actionable insights into sales, profit, and customer segments. Leveraged pivot tables, slicers, and data visualizations to uncover trends, identify high-performing products, and highlight loss-making areas, enabling better strategic decision-making.
-
-## Dataset used
-- <a href ="https://github.com/Sunil7489/Retail-Sales-Dashboard-Excel/blob/main/Amazon.xlsx">Dataset</a>
-
-### ❓ Questions (KPIs)
-
-- What is the total sales, profit, and number of orders?  
-- Which product category generates the highest sales?  
-- Which customer type contributes the most profit?  
-- What are the top 10 customers by sales?  
-- Which countries generate the highest revenue?  
-- What is the trend of sales and profit over time?  
-- Where is the business facing losses?  
-
-
-### ⚙️ Process
-
-- Cleaned and verified dataset for accuracy and consistency  
-- Created pivot tables to perform data analysis  
-- Built an interactive dashboard using slicers  
-- Used charts (bar, column, line, pie, map) for visualization  
+Developed an interactive **Retail Sales Dashboard** in MS Excel to analyze business performance across sales, profit, customers, and regions. The dashboard enables dynamic decision-making through real-time filtering and visual insights.
 
 ---
 
-### 📸 Dashboard  
+### 🛠️ Tools & Technologies  
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Data Cleaning & Transformation  
+
+---
+
+### 📂 Dataset  
+- 📁 [Download Dataset](https://github.com/Sunil7489/Retail-Sales-Dashboard-Excel/blob/main/Amazon.xlsx)
+
+---
+
+### ❓ Key Business Questions (KPIs)
+
+- What is the **total sales, profit, and number of orders**?  
+- Which **product category** generates the highest revenue?  
+- Which **customer segment** is most profitable?  
+- Who are the **Top 10 customers by sales**?  
+- Which **countries/regions** contribute the most revenue?  
+- What are the **sales and profit trends over time**?  
+- Where is the business **incurring losses**?  
+
+---
+
+### ⚙️ Project Workflow  
+
+1. **Data Cleaning**
+   - Removed inconsistencies and validated dataset  
+
+2. **Data Analysis**
+   - Created multiple Pivot Tables for KPI extraction  
+
+3. **Dashboard Development**
+   - Designed interactive dashboard using slicers  
+   - Connected all visuals dynamically  
+
+4. **Data Visualization**
+   - Used multiple charts:
+     - Column Chart (Sales by Category)  
+     - Line Chart (Sales & Profit Trend)  
+     - Pie Chart (Sales Distribution)  
+     - Bar Chart (Top Customers)  
+     - Map Chart (Country-wise Sales)  
+
+---
+
+### 📸 Dashboard Preview  
 ![Dashboard](dashboard.png)
 
 ---
 
-### 📈 Project Insights  
+### 📈 Key Insights  
 
-- Technology category generated the highest sales  
-- Corporate customers contributed the most profit  
-- Some regions showed losses impacting overall profitability  
-- Top customers contributed a major portion of total revenue  
+- 💻 **Technology** category generated the highest sales  
+- 🏢 **Corporate customers** contributed the most profit  
+- 🌍 Certain regions showed **negative profit (loss areas)**  
+- 👥 **Top 10 customers** contributed a significant portion of revenue  
 
 ---
 
-### 💡 Final Conclusion  
+### 💡 Business Recommendations  
 
-Focus on high-profit customers, improve performance in low-performing regions, and optimize shipping costs to increase overall profitability.
+- Focus on **high-value customers** to maximize revenue  
+- Improve performance in **loss-making regions**  
+- Optimize **shipping costs** to increase profitability  
+- Expand high-performing categories like **Technology**  
+
+---
+
+### 📌 Project Highlights  
+
+✔ Interactive dashboard with slicers  
+✔ End-to-end data analysis using Excel  
+✔ Business-driven insights generation  
+✔ Clean and professional dashboard design  
+
+---
+
+### 📎 Author  
+
+**Sunil Sharma**  
+📧 sunilsharma01220122@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/sunilsharma123)
