@@ -15,3 +15,31 @@ Designed and developed an interactive retail sales dashboard in MS Excel to prov
 - Which countries generate the highest revenue?  
 - What is the trend of sales and profit over time?  
 - Where is the business facing losses?  
+
+
+### ⚙️ Process
+
+- Cleaned and verified dataset for accuracy and consistency  
+- Created pivot tables to perform data analysis  
+- Built an interactive dashboard using slicers  
+- Used charts (bar, column, line, pie, map) for visualization  
+
+---
+
+### 📸 Dashboard  
+![Dashboard](dashboard.png)
+
+---
+
+### 📈 Project Insights  
+
+- Technology category generated the highest sales  
+- Corporate customers contributed the most profit  
+- Some regions showed losses impacting overall profitability  
+- Top customers contributed a major portion of total revenue  
+
+---
+
+### 💡 Final Conclusion  
+
+Focus on high-profit customers, improve performance in low-performing regions, and optimize shipping costs to increase overall profitability.
